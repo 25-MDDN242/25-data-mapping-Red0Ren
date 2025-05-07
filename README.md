@@ -6,3 +6,19 @@ The images above are photos of Wellington CBD algorithmically processed with a l
 
 06/05/25 1021-1040
 - played with variables to understand.
+________________________________________
+
+08/045/25 1000-1118
+- played with  example code to grey out background
+Project Ideas:
+- Detects spiders
+- detective mode???
+    - finds and highlights guns
+    - outlines vents
+- face distortion???
+- draws Bill Cypher on faces
+- highlights someone in a crowd
+    - Hitman targets
+Need for next class:
+- Photos for AI.
+____________________________________________________
