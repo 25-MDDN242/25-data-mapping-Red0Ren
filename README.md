@@ -8,7 +8,7 @@ The images above are photos of Wellington CBD algorithmically processed with a l
 - played with variables to understand.
 ________________________________________
 
-08/045/25 1000-1118
+08/05/25 1000-1118
 - played with  example code to grey out background
 Project Ideas:
 - Detects spiders
@@ -22,3 +22,13 @@ Project Ideas:
 Need for next class:
 - Photos for AI.
 ____________________________________________________
+
+22/05/25  1015-1200
+- added 4 .js files to keep different types renders
+    - blur, grayscale, shape, bokeh
+- added images to experiment with.
+- currently experimenting with settings until I get the desired look.
+Need:
+- to upload the rest of the images.
+- change index default images.
+- make the "detective mode" up to my standard
