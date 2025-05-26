@@ -32,3 +32,15 @@ Need:
 - to upload the rest of the images.
 - change index default images.
 - make the "detective mode" up to my standard
+____________________________________________________
+
+27/05/25  1000-1058
+
+- made background darker
+Need:
+- square identifying "Heeavy Gunner"
+- change index default images.
+- make highlight brighter.
+
+Unrelated:
+create iframe copy
