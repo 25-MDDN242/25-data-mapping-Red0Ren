@@ -1,0 +1,8 @@
+Model loaded.
+Processing input files: input_1.jpg + mask_1.png
+Processing input files: input_2.jpg + mask_2.png
+Processing input files: input_3.jpg + mask_3.png
+Processing mask from input: input_new1.jpg -> mask_new1.png
+Processing mask from input: input_new2.jpg -> mask_new2.png
+Processing mask from input: input_new3.jpg -> mask_new3.png
+Finished.
