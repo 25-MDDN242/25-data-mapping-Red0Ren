@@ -44,3 +44,18 @@ Need:
 
 Unrelated:
 create iframe copy
+____________________________________________________
+
+29/05/25 - 0954-1220
+-  uploaded all input images
+- changed "index" images
+-  made highlight show more details
+
+Need:
+- square identifying "Heeavy Gunner"
+
+Want:
+- buttons on index to change which input is being rendered.
+    ideas:
+    - dropdown menu
+    - hyperlinks

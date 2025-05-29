@@ -3,9 +3,9 @@ let maskImg=null;
 let renderCounter=0;
 
 // change these three lines as appropiate
-let sourceFile = "input_2.jpg";
-let maskFile   = "mask_2.png";
-let outputFile = "output_2.png";
+let sourceFile =  "input_new1.jpg";
+let maskFile   =   "mask_new1.png";
+let outputFile = "output_4.png";
 
 function preload() {
   sourceImg = loadImage(sourceFile);
@@ -44,9 +44,9 @@ function draw () {
       // highlighted mask
       if(mask[0] > 1) {
         // draw the full pixels
-        let new_sat = map(s, 0, 100, 100, 200);
-        let new_brt = map(b, 0, 100, 30, 100);
-        let new_hue = map(h, 0, 360, 180, 540);
+        let new_sat = map(s, 0, 100, 90, 100);
+        let new_brt = map(b, 0, 100, 23, 100);
+        let new_hue = map(h, 0, 360, 0, 5);
         let new_col = color(new_hue, new_sat, new_brt);
         set(i, j, new_col);
       }
