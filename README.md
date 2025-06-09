@@ -59,3 +59,8 @@ Want:
     ideas:
     - dropdown menu
     - hyperlinks
+____________________________________________________
+
+09/06/25 - 1517
+Final:
+My main inspiration for this project was the video game Batman: Arkham Knight. Arkham Knight is the third game in a tetralogy of video games all sharing the name "Arkham" name and a game mechanic called "detective mode," this machanic allows players to focus on the interactive parts of their enviroment and highlights all the enemies. For this project I aimed to only highlight the "heavy gunner" since in the game they are the second biggest problem being that they can't be taken out quietly.
